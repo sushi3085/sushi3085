@@ -1,6 +1,6 @@
 ## Codeing as a cuesta
 
-### Now mainly working to：
+### Mainly working now：
 
 - [ ] C# tutorial
     - [ ] Structure

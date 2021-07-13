@@ -1,6 +1,6 @@
 ## Codeing as a cuesta
 
-### Now mainly working：
+### Now mainly working to：
 
 - [ ] C# tutorial
     - [ ] Structure
@@ -11,7 +11,7 @@
     - [ ] Basic data types
         - [ ] Types of number
         - [ ] Type of "words"
-        - [ ] XX@@@ &*((&%##%
+        - [ ] Review
     - [ ] Variable
         - [ ] Basic concepts
     - [ ] Practice_0

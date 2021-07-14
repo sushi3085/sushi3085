@@ -3,8 +3,8 @@
 ### Mainly working now：
 
 - [ ] C# tutorial
-    - [ ] Structure
-        - [ ] Structure related keywords
+    - [x] Structure
+        - [x] Structure related keywords
     - [ ] Calculate
         - [ ] Arithmetic, Square, Mod, etc.
         - [ ] Print on the screen

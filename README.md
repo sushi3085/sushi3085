@@ -1,6 +1,6 @@
 ## Codeing as a cuesta
 
-### Mainly working now：
+### Currently working on：
 
 - [ ] C# tutorial
     - [x] Structure
@@ -15,7 +15,9 @@
     - [ ] Variable
         - [ ] Basic concepts
     - [ ] Practice_0
-    - [ ] Some fun facts -- for intresting in.
+    - [ ] Some fun facts -- for those who are interested in.
+
+## `order needs to be adjusted...`
 
 <!---
 sushi3085/sushi3085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

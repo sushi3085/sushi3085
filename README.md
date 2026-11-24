@@ -3,3 +3,4 @@
 sushi3085/sushi3085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![主視覺GIF|512](./rumors_P0.075.gif)
